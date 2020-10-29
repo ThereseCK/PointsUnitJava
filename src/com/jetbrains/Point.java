@@ -15,12 +15,12 @@ public class Point {
     }
 
     // return the x-coordinate of this point
-    public int getX(int i){
+    public int getX(int x){
         return x;
     }
 
     // return the y-coordinate of this point
-    public int getY(int i){
+    public int getY(int y){
         return y;
     }
 
